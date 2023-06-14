@@ -64,8 +64,9 @@ I am passionate about science and technology: Astrophysics, Astronomy, Astrology
 <div>
   
 <a href="https://github.com/kelven939">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?kelven939-aqui&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?kelven939-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?kelven939-aqui&layout=compact&langs_count=7&theme=dracula" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?kelven939-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
 </div>
   
   ![Snake animation](https://github.com/seu-usuário-aqui/kelven939/blob/output/github-contribution-grid-snake.svg)
