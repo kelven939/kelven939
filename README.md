@@ -63,8 +63,8 @@ I am passionate about science and technology: Astrophysics, Astronomy, Astrology
 ## ⚡ Fun fact: I venture into the Front-End, I am very passionate about technology, science, literature and Religion.
 <div>
 <a href="https://github.com/kelven939">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/kelven939&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=https://github.com/kelven939&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelven939&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kelven939&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
   
   ![Snake animation](https://github.com/seu-usuário-aqui/kelven939/blob/output/github-contribution-grid-snake.svg)
