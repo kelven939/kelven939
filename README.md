@@ -25,11 +25,11 @@ I am passionate about science and technology: Astrophysics, Astronomy, Astrology
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="400" height="200" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="400" height="200" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg"  width="400" height="200" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="400" height="200" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="400" heigth="200" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" width="400" heigth="200" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  width="400" heigth="200" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="400" heigth="200" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="400" heigth="200" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"  width="400" heigth="200" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"  width="400" heigth="200" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="400" heigth="200"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="400" heigth="200" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="400" heigth="200" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="300" heigth="200" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" width="300" heigth="200" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  width="300" heigth="200" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="300" heigth="200" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="300" heigth="200" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"  width="300" heigth="200" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"  width="300" heigth="200" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="300" heigth="200"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="300" heigth="200" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="300" heigth="200" />
 
 ## Contacts:
 
