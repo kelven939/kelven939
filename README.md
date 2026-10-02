@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 🔭 I am currently working remotely.
-## 🌱 I'm currently learning ReactJs, NodeJs, backend technologies.
 ## 💬 About me: I'm currently immersed in web development, as far as Front-End is concerned.
 I am a computer enthusiast and very curious in all areas of knowledge. The faith I profess is Christianity and I attend the Seventh-day Adventist Church.
 I am passionate about science and technology: Astrophysics, Astronomy, Astrology and more...
